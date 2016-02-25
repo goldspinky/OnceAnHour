@@ -1,5 +1,5 @@
 # OnceAnHour
-A simple idle game written in python.
+A simple idle game written in Python.
 
 OnceAnHour is written with Python 2.7.
 
