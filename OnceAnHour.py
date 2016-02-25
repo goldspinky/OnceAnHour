@@ -5,6 +5,8 @@ import shelve
 import dbhash
 import os
 
+###ON FLEEK
+
 starttime = time.time()
 
 class Player(object):
