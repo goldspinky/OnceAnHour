@@ -2,12 +2,12 @@
 
 waitTimeInSeconds = 3600
 popUpMessage = "Stand up!"
-popUpEnabled = False
+popUpEnabled = True
 simulateHours = 0
 widthX = 80
 heightY = 30
-OAHInput = 9801
-truncateLevelSpam = True
+OAHInput = 0
+truncateLevelSpam = False
 
 ##truncating level spam is recommended when simulating large numbers of levels
 
