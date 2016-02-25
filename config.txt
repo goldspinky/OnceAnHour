@@ -1,0 +1,41 @@
+## BEGINNER SETTINGS ##
+
+waitTimeInSeconds = 3600
+popUpMessage = "Stand up!"
+popUpEnabled = False
+simulateHours = 0
+widthX = 80
+heightY = 30
+OAHInput = 9801
+truncateLevelSpam = True
+
+##truncating level spam is recommended when simulating large numbers of levels
+
+## ITEM SETTINGS ##
+
+itemTitles = ['Socrethar', 'Clothide', 'Edmort', 'Seishougen', 'Doog', 'Thog', 'Erys', 'Bantor', 'Osumi', 'Grobby', 'Grabthar']
+itemElements = ['copper', 'iron', 'steel', 'electrium', 'unobtainium', 'silver', 'platinum', 'amber', 'sandalwood', 'wyrmwood', 'dragonsteel', 'tiny plastic']
+itemTypes = ['scepter', 'sceptre', 'bow', 'crossbow', 'yo-yo', 'short sword', 'mecha-sword', 'long sword', 'triple-bladed greatsword', 'hammer', 'greaves', 'sweatpants', 'breastplate', 'apron', 'high heels']
+itemPrefixes = ['timeless', 'infinite', 'lonely', 'everlasting', 'undying', 'gobstopping', 'eternal']
+itemSuffixes = ['adventurer', 'hero', 'bard', 'necrodancer', 'game designer', 'janitor', 'window cleaner', 'architect', 'lich']
+forceItemName = ""
+
+##example of forced name = "Roocey\'s Intergalactic PDA"
+
+## PROFESSION SETTINGS ##
+
+professionNames = ['Astronaut', 'eSports Legend', 'Barbarian', 'Wine Taster', 'Park Ranger', 'Plumber', 'Office Employee', 'Game Designer']
+professionMissions = ['spaceship', 'hall of fame statue', 'wings of the valkyrie', 'oak barrel boat', 'helicopter', 'warp whistle', 'fractional jet', 'arcade cabinet']
+
+## RACE SETTINGS ##
+
+raceNames = ['Gnome', 'Milk Elf', 'Manbearpig', 'Slinky', 'Plastic Soldier', 'Lifelike Android', 'Demigod', 'Jellyperson']
+raceTemples = ['engineering lab', 'enchanted dairy farm', 'savage pit', 'box of toys', 'tiny plastic barracks', 'room full of cats', 'temple', 'gelatinous ball pit']
+
+## DAILY QUEST SETTINGS ##
+
+dailyQuestChoices = ['you escaped the Cursed Maze', 'you defeated an evil penguin of doom', 'you survived 42 jumping puzzles', 'you delivered newspapers for an hour', 'you contemplated the meaning of life', 'you laid in bed for an hour and remembered awkward childhood experiences', 'you posted some ideas for a video on the internet', 'you stood up and walked away', 'you twiddled your thumbs', 'you fiddled your fiddles']
+
+## DUNGEON SETTINGS ##
+
+dungeonChoices = ['Whiterock Foundry', 'Super Justice Cave', 'The Mouth of Zigg-narog', 'The Heart of Velkor', 'Ancient Shoals', 'Violet Temple', 'Plane of Madness', 'Milk Elf Dairy Farm', 'Gnome Secret Base', 'Grove of Tendies']
